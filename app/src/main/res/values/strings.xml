@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FLOWERCLICKER</string>
+    <string name="title_activity_game">GameActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="click">Click</string>
+    <string name="time_currenttime">Time: %1$d</string>
+    <string name="clicks_currentclicks">My clicks: %1$d</string>
+    <string name="money_currentmoney">One click: %1$d</string>
+    <string name="record_currentrecord">Record: %1$d</string>
+    <string name="time">Time: %1$d</string>
+    <string name="time_0">Time: 0</string>
+    <string name="start">Start</string>
+    <string name="shop">Shop</string>
+    <string name="you_have_30_seconds">You have 30 seconds</string>
+    <string name="record">Record</string>
+    <string name="click_the_flower">Click the flower</string>
+    <string name="improve_1">Improve +1</string>
+    <string name="improve_3">Improve +3</string>
+    <string name="improve_10">Improve +10</string>
+    <string name="clicker">Clicker</string>
+    <string name="if_you_have_more_than_0_clicks">If you have more than 0 clicks</string>
+    <string name="if_you_have_more_than_10_clicks">If you have more than 10 clicks</string>
+    <string name="if_you_have_more_than_100_clicks">If you have more than 100 clicks</string>
+</resources>
